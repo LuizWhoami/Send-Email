@@ -1,6 +1,8 @@
 import email.mime
 import smtplib
 import email.message
+import requests
+
 def enviar():
     corpo = """
     <!DOCTYPE html>
