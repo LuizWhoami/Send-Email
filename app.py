@@ -1,6 +1,6 @@
 import requests
 
-API = "10fbbd1f99a3450dbb14cd9d9110ae3d"
+API = "SUA API"
 URL = "https://newsapi.org/v2/everything"
 noticia = input('o que você quer: ')
 params = {
